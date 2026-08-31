@@ -1,29 +1,19 @@
-# Lab 01 – Windows 11 Security Endpoint Deployment
-
-## Overview
-
-## Objectives
-
-## Lab Environment
-
 ## Deployment Process
 
 ### 1. VMware Virtual Machine Configuration
-[Evidence]
+
+The Windows 11 virtual machine was created and configured in VMware Workstation.
+
+![VMware Configuration](screenshots/ready%20windows%2011.png)
 
 ### 2. Windows 11 Installation
-[Evidence]
+
+Windows 11 Pro was installed on the virtual machine.
+
+![Windows 11 Installation](screenshots/window11.png)
 
 ### 3. UEFI / Boot Configuration
-[Evidence]
 
-### 4. Windows 11 Initial Configuration
-[Evidence]
+The VM was configured to use UEFI firmware and the Windows installation media was booted successfully.
 
-## Security Configuration
-
-## Skills Demonstrated
-
-## Lessons Learned
-
-## Next Steps
+![UEFI Boot Configuration](screenshots/finish.png)
